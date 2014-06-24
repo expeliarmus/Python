@@ -1,0 +1,4 @@
+import turtle
+jar=turtle.Turtle()
+jar.color("blue")
+jar.forward(100)
